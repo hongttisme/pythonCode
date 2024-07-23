@@ -1,0 +1,10 @@
+f = open("theTxt", 'r')
+a = f.readline()
+b = f.readline()
+print(a)
+print(b)
+f.close()
+f = open("theTxt", 'r')
+lines = f.readlines()
+for line in lines:
+    print(line)

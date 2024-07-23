@@ -1,0 +1,5 @@
+cinema id: 1234
+cinema name: example
+coming soon: ['tt']
+showing now: ['hong']
+shown: []
